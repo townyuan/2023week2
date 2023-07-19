@@ -140,6 +140,11 @@ ul.nav li:nth-last-child(1) {
   display: flex;
 }
 
+.align-self-end {
+  -ms-flex-item-align: end;
+      align-self: end;
+}
+
 .mb-28 {
   margin-bottom: 28px;
 }
